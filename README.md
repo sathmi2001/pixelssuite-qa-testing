@@ -70,4 +70,4 @@ Images/
 
 ## Author
 
-Your Name
+Sathmi Kulasekara
